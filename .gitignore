@@ -1,0 +1,8 @@
+# Public code repo. Whitelist: only Python source, this file, and the README.
+*
+!*/
+!.gitignore
+!.gitattributes
+!README.md
+!*.py
+__pycache__/
